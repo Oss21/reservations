@@ -1,0 +1,10 @@
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\bin\Debug\Almuerzo.exe.config
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\bin\Debug\Almuerzo.exe
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\bin\Debug\Almuerzo.pdb
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.csprojAssemblyReference.cache
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.Properties.Resources.resources
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.csproj.GenerateResource.cache
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.exe
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.pdb
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.Data.resources
+C:\Users\osvan\source\repos\Almuerzo\Almuerzo\obj\Debug\Almuerzo.Menu.resources
